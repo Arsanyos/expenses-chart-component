@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+}
+html,body{
+    height:100%;
+}
+.App{
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.chart-header{
+    height:80px;
+    width:350px;
+    border-radius:20px;
+    background:hsl(10, 79%, 65%);
+}
